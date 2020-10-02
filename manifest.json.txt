@@ -1,0 +1,38 @@
+{
+  "name": "Prodikbud",
+  "short_name": "Prodikbud",
+  "start_url": "https://prodikbud.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#01579b",
+  "theme_color": "#01579b",
+  "description": "Program Pendidikan & Kebudayaan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s48/prodikbud.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s72/prodikbud.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s96/prodikbud.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s144/prodikbud.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s168/prodikbud.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s192/prodikbud.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-9FXbErPztL8/X3c5ZyDpAtI/AAAAAAAAAB0/xzPh-sG2yt0ohmTQD2_WlhTKvupenDcKwCLcBGAsYHQ/s512/prodikbud.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
